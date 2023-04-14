@@ -7,8 +7,8 @@
 </p>
 
 <h3 align="center">
- Implementación de aplicaciones con Vercel:
- <a href="https://diegolramos-netflix-clone.vercel.app/" target="_blank">ACCEDE AQUI </p>
+ Implementación de aplicaciones
+
 </h3>
 
 
